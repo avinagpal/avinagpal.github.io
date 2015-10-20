@@ -1,0 +1,87 @@
+
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Divneet Sethi | Home</title>
+    <link rel="stylesheet" href="css/foundation.css" />
+    <script src="js/vendor/modernizr.js"></script>
+    <script src="js/myFiles/detectmobilebrowser.js"></script>
+  </head>
+<body>
+
+    <nav class="top-bar">
+        <ul class="title-area">
+            <li class="name"><h1><a href="index.html">Divneet Sethi</a></h1></li>
+        </ul>
+        <section class="top-bar-section">
+            <ul class="left">
+                <li><a href="index.html" style="color:#FF6600"><b>Home</b></a></li>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="https://github.com/DivneetSethi" target="_blank">GitHub</a></li>
+                <li><a href="contact.html">Contact Me</a></li>
+            </ul>
+        </section>
+        <section class="top-bar-section">
+            <ul class="right">
+                <li><a href="https://ca.linkedin.com/pub/divneet-singh-sethi/80/b21/915"><img src="assets/image/linkedin-logo.png" width="30" height="30" /></a></li>
+            </ul>
+        </section>
+    </nav>
+    <ul class="breadcrumbs">
+        <li><a href="index.html" class="unavailable" >Home</a></li>
+    </ul>
+    <div class="row">
+        <div class="large-8 columns">
+            <div class="panel">
+                <h2>Divneet Sethi</h2>
+                <h3>Welcome to my Portfolio</h3>
+                <p align="justify"><b>Passion for creation invokes imaginion</b><br />
+                    Hello! I'm a graphic designer in Toronto, making the web more enjoyable by creating attractive websites for business and individuals who need an effective online presence.I believe in creating attractive yet simple design that work. Contact me to get in touch.
+                </p>
+                <a href="about.html" class="button round">Find out more!</a>
+            </div>
+        </div>
+
+        <div class="large-4 columns">
+            <img src="assets/image/logo.jpg" />
+        </div>
+    </div>
+    <hr />
+
+    <div class="row">
+        <div class="large-12 columns">
+            <h2 align="center"><a href="projects.html">Featured Work</a></h2>
+            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+            <iframe src="http://slideful.com/v20150116_1113728378173688_ijf.htm" frameborder="0" style="border:0px;padding:0px;margin:0px;width:640px;height:310px;" allowtransparency="true"></iframe>
+        </div>
+    </div>
+    <hr />
+    <div class="row">
+        <div class="large-12 columns">
+            <div class="panel">
+                <h3>Keep Connected...</h3>
+                <ul class="small-block-grid-2">
+                    <li><a href="https://ca.linkedin.com/pub/divneet-singh-sethi/80/b21/915"><img src="assets/image/linkedin-logo.png" align="right" /></a></li>
+                    <li><a href="https://www.facebook.com/divneet.sethi"><img src="assets/image/facebook-logo.png"/></a></li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer" style="color:#aaa;text-align:center;line-height:50px">
+        &copy;Copyright Divneet Sethi 2015&nbsp;|&nbsp;<a href="terms.html">Terms of Use</a>&nbsp;|&nbsp;<a href="privacy.html">Privacy</a>
+    </div>
+
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script>
+        $(document).foundation();
+    </script>
+</body>
+
+</html>
